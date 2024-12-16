@@ -1,0 +1,2 @@
+# edebiyat
+lorem ipsum
